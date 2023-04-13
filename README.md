@@ -5,5 +5,5 @@ The uploaded files include:
 * Gradient descent implemtation
 * SVM (PEGASOS) implementation
 * Time series classification
-* Anomaly detecion
+* Anomaly detection
 
