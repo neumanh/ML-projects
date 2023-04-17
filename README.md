@@ -4,6 +4,7 @@ The uploaded files include:
 * k-Nearest Neighbours implementation
 * Gradient descent implemtation
 * SVM (PEGASOS) implementation
+* Naive Bayes implementation
 * Time series classification
 * Anomaly detection
 
