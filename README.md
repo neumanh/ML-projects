@@ -1,10 +1,14 @@
 # ML-projects
-Few machine learning projects that were done as part of the Y-data course.
-The uploaded files include:
-* k-Nearest Neighbours implementation
-* Gradient descent implemtation
-* SVM (PEGASOS) implementation
-* Naive Bayes implementation
-* Time series classification
-* Anomaly detection
+Machine learning projects that were done as part of the Y-data course.   
+Course instructors: *Lior Sidi*, *Noa Lubin*, *Segev Arbiv*, *Guy Shtar* and *Gleb Ivashkevich*
+
+Machine learning algorithm implementations:
+* [K-Nearest Neighbours implementation](k-Nearest-Neighbours-implementation.ipynb)
+* [Gradient descent implemtation](Gradient-Descent-implementation.ipynb)
+* [SVM (PEGASOS) implementation](svm_implementation.ipynb)
+* [Naive Bayes implementation](Naive-Bayes-implementation.ipynb)
+
+Additional tasks:
+* [Time series classification](Time_series_classification.ipynb)
+* [Anomaly detection](Anomaly_detection_in_time_series.ipynb)
 
