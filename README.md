@@ -1,5 +1,6 @@
 # ML-projects
 Machine learning projects that were done as part of the Y-data course.   
+Done together with *Neta Kohn*.    
 Course instructors: *Lior Sidi*, *Noa Lubin*, *Segev Arbiv*, *Guy Shtar* and *Gleb Ivashkevich*
 
 Machine learning algorithm implementations:
